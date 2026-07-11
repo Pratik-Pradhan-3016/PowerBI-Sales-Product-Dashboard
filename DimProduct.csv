@@ -1,0 +1,202 @@
+ProductID,ProductName,Category,SubCategory,Brand,Region,LaunchYear,UnitCost
+1,Product 1,Electronics,Sub1,Brand 12,East,2021,119.37
+2,Product 2,Electronics,Sub2,Brand 10,West,2018,24.6
+3,Product 3,Furniture,Sub4,Brand 9,North,2021,360.85
+4,Product 4,Accessories,Sub7,Brand 4,West,2022,406.62
+5,Product 5,Electronics,Sub3,Brand 12,West,2023,146.16
+6,Product 6,Furniture,Sub6,,North,2024,57.39
+7,Product 7,Office Supplies,Sub5,Brand 13,North,2025,272.75
+8,Product 8,Appliances,Sub2,Brand 9,East,2023,292.9
+9,Product 9,Electronics,Sub1,Brand 11,South,2022,492.76
+10,Product 10,Furniture,Sub2,Brand 7,East,2025,321.49
+11,Product 11,Office Supplies,Sub3,Brand 6,East,2021,338.39
+12,Product 12,Electronics,Sub3,Brand 9,South,2020,236.51
+13,Product 13,Office Supplies,Sub4,Brand 11,East,2018,122.23
+14,Product 14,Electronics,Sub6,Brand 7,East,2019,113.38
+15,Product 15,Accessories,Sub6,Brand 4,West,2024,443.49
+16,Product 16,Appliances,Sub3,Brand 5,South,2021,375.04
+17,Product 17,Accessories,Sub5,Brand 12,West,2024,187.38
+18,Product 18,Furniture,Sub8,Brand 2,North,2019,84.89
+19,Product 19,Furniture,Sub7,Brand 10,North,2024,196.99
+20,Product 20,Appliances,Sub5,Brand 9,North,2019,344.04
+21,Product 21,Accessories,Sub5,Brand 13,East,2019,153.82
+22,Product 22,Furniture,Sub8,Brand 1,East,2020,258.76
+23,Product 23,Electronics,Sub5,Brand 14,South,2020,193.22
+24,Product 24,Furniture,Sub1,Brand 10,East,2025,19.54
+25,Product 25,Office Supplies,Sub5,Brand 4,North,2021,440.22
+26,Product 26,Electronics,Sub2,Brand 12,West,2019,489.21
+27,Product 27,Accessories,Sub3,Brand 3,West,2020,139.88
+28,Product 28,Accessories,Sub7,Brand 4,South,2022,205.51
+29,Product 29,Office Supplies,Sub8,Brand 15,West,2019,131.47
+30,Product 30,Electronics,Sub6,Brand 1,South,2021,13.52
+31,Product 31,Electronics,Sub4,Brand 2,North,2023,44.72
+32,Product 32,Furniture,Sub5,Brand 11,West,2021,274.22
+33,Product 33,Accessories,Sub8,Brand 4,West,2024,103.3
+34,Product 34,Electronics,Sub7,Brand 6,West,2024,238.84
+35,Product 35,Electronics,Sub2,Brand 1,West,2023,402.29
+36,Product 36,Electronics,Sub4,Brand 4,South,2025,78.69
+37,Product 37,Furniture,Sub5,Brand 8,South,2019,227.13
+38,Product 38,Accessories,Sub2,Brand 1,North,2019,463.92
+39,Product 39,Furniture,Sub3,Brand 7,West,2025,114.74
+40,Product 40,Appliances,Sub1,Brand 3,West,2018,492.8
+41,Product 41,Office Supplies,Sub8,Brand 5,West,2025,85.85
+42,Product 42,Office Supplies,Sub4,Brand 1,North,2023,38.01
+43,Product 43,Accessories,Sub8,Brand 9,South,2018,480.78
+44,Product 44,Electronics,Sub3,Brand 2,North,2021,207.85
+45,Product 45,Accessories,Sub4,Brand 10,North,2019,215.42
+46,Product 46,Accessories,Sub6,Brand 15,East,2021,338.17
+47,Product 47,Office Supplies,Sub4,Brand 5,West,2020,339.13
+48,Product 48,Office Supplies,Sub8,Brand 6,North,2018,234.56
+49,Product 49,Accessories,Sub2,Brand 2,South,2022,74.9
+50,Product 50,Office Supplies,Sub2,Brand 15,South,2023,149.64
+51,Product 51,Appliances,Sub5,Brand 10,North,2022,466.56
+52,Product 52,Electronics,Sub3,Brand 5,North,2019,373.78
+53,Product 53,Furniture,Sub5,Brand 5,South,2023,109.76
+54,Product 54,Office Supplies,Sub8,Brand 5,North,2019,320.8
+55,Product 55,Office Supplies,Sub1,Brand 1,East,2020,322.19
+56,Product 56,Office Supplies,Sub3,Brand 12,West,2024,284.84
+57,Product 57,Electronics,Sub2,Brand 15,South,2018,418.95
+58,Product 58,Accessories,Sub3,Brand 7,South,2018,161.05
+59,Product 59,Electronics,Sub6,Brand 4,South,2019,183.3
+60,Product 60,Accessories,Sub7,Brand 10,South,2021,433.66
+61,Product 61,Furniture,Sub7,Brand 1,South,2023,393.37
+62,Product 62,Appliances,Sub4,Brand 5,South,2019,197.45
+63,Product 63,Electronics,Sub8,Brand 4,South,2025,181.33
+64,Product 64,Furniture,Sub4,Brand 1,South,2024,170.85
+65,Product 65,Electronics,Sub5,Brand 6,West,2023,470.23
+66,Product 66,Electronics,Sub5,Brand 3,East,2018,63.12
+67,Product 67,Appliances,Sub6,Brand 12,East,2024,307.04
+68,Product 68,Accessories,Sub2,Brand 7,South,2022,31.75
+69,Product 69,Appliances,Sub1,Brand 9,South,2023,221.34
+70,Product 70,Office Supplies,Sub6,Brand 11,North,2022,258.49
+71,Product 71,Appliances,Sub6,Brand 7,East,2020,104.0
+72,Product 72,Appliances,Sub3,Brand 10,East,2024,278.49
+73,Product 73,Electronics,Sub5,Brand 5,South,2024,395.02
+74,Product 74,Accessories,Sub6,Brand 8,West,2025,341.06
+75,Product 75,Accessories,Sub8,Brand 13,South,2019,149.06
+76,Product 76,Accessories,Sub6,Brand 2,South,2022,120.07
+77,Product 77,Furniture,Sub3,Brand 1,North,2021,492.13
+78,Product 78,Accessories,Sub2,Brand 8,West,2021,361.99
+79,Product 79,Appliances,Sub8,Brand 7,South,2020,331.47
+80,Product 80,Electronics,Sub2,Brand 13,West,2021,96.18
+81,Product 81,Accessories,Sub8,Brand 1,South,2019,233.67
+82,Product 82,Appliances,Sub6,Brand 13,West,2024,416.98
+83,Product 83,Accessories,Sub8,Brand 15,South,2025,230.53
+84,Product 84,Furniture,Sub5,Brand 13,West,2021,144.55
+85,Product 85,Electronics,Sub5,Brand 4,East,2023,166.66
+86,Product 86,Accessories,Sub2,Brand 3,South,2021,197.69
+87,Product 87,Furniture,Sub4,Brand 2,West,2024,172.13
+88,Product 88,Appliances,Sub7,Brand 1,South,2024,200.84
+89,Product 89,Accessories,Sub1,Brand 14,West,2025,12.89
+90,Product 90,Office Supplies,Sub5,Brand 13,West,2024,273.73
+91,Product 91,Accessories,Sub4,Brand 8,South,2022,223.56
+92,Product 92,Electronics,Sub7,Brand 6,West,2020,421.85
+93,Product 93,Furniture,Sub1,Brand 15,West,2018,51.13
+94,Product 94,Appliances,Sub3,Brand 14,West,2020,34.64
+95,Product 95,Appliances,Sub6,Brand 4,West,2023,175.38
+96,Product 96,Appliances,Sub5,Brand 13,West,2022,419.11
+97,Product 97,Appliances,Sub1,Brand 12,North,2023,119.87
+98,Product 98,Electronics,Sub1,Brand 13,North,2021,107.69
+99,Product 99,Electronics,Sub3,Brand 4,South,2025,338.03
+100,Product 100,Accessories,Sub4,Brand 8,East,2023,92.22
+101,Product 101,Accessories,Sub2,Brand 13,South,2022,62.97
+102,Product 102,Electronics,Sub5,Brand 10,West,2024,471.32
+103,Product 103,Furniture,Sub2,Brand 10,South,2019,351.62
+104,Product 104,Office Supplies,Sub2,Brand 13,North,2023,271.05
+105,Product 105,Office Supplies,Sub2,Brand 9,East,2018,426.29
+106,Product 106,Appliances,Sub2,Brand 7,East,2025,356.58
+107,Product 107,Appliances,Sub3,Brand 12,East,2025,237.79
+108,Product 108,Accessories,Sub5,Brand 6,South,2019,146.67
+109,Product 109,Appliances,Sub4,Brand 13,West,2024,174.83
+110,Product 110,Appliances,Sub6,Brand 3,West,2021,183.86
+111,Product 111,Office Supplies,Sub6,Brand 5,East,2018,263.15
+112,Product 112,Furniture,Sub2,Brand 4,West,2025,282.04
+113,Product 113,Furniture,Sub8,Brand 11,West,2025,398.54
+114,Product 114,Electronics,Sub5,Brand 4,West,2021,160.04
+115,Product 115,Accessories,Sub6,Brand 8,East,2024,498.35
+116,Product 116,Accessories,Sub6,Brand 6,West,2022,160.25
+117,Product 117,Furniture,Sub2,Brand 12,South,2023,68.58
+118,Product 118,Accessories,Sub3,Brand 4,South,2025,145.48
+119,Product 119,Accessories,Sub5,Brand 2,South,2022,121.47
+120,Product 120,Furniture,Sub5,Brand 1,South,2022,32.3
+121,Product 121,Electronics,Sub5,Brand 12,South,2025,60.27
+122,Product 122,Electronics,Sub5,Brand 8,West,2025,176.95
+123,Product 123,Electronics,Sub5,Brand 14,West,2019,412.84
+124,Product 124,Appliances,Sub8,Brand 2,North,2020,83.11
+125,Product 125,Accessories,Sub5,Brand 2,South,2019,283.46
+126,Product 126,Appliances,Sub4,Brand 13,West,2025,455.17
+127,Product 127,Office Supplies,Sub7,Brand 5,North,2019,474.32
+128,Product 128,Furniture,Sub4,Brand 5,North,2020,127.53
+129,Product 129,Accessories,Sub2,Brand 3,North,2024,230.75
+130,Product 130,Accessories,Sub8,Brand 5,North,2021,151.17
+131,Product 131,Office Supplies,Sub8,Brand 2,South,2022,396.04
+132,Product 132,Accessories,Sub4,Brand 7,North,2021,327.34
+133,Product 133,Office Supplies,Sub3,Brand 2,North,2020,398.39
+134,Product 134,Accessories,Sub5,Brand 8,North,2025,347.45
+135,Product 135,Appliances,Sub5,Brand 9,West,2025,49.42
+136,Product 136,Electronics,Sub7,Brand 12,East,2022,22.67
+137,Product 137,Furniture,Sub1,Brand 13,East,2018,383.92
+138,Product 138,Furniture,Sub8,Brand 9,West,2022,98.93
+139,Product 139,Accessories,Sub7,Brand 11,West,2019,240.31
+140,Product 140,Appliances,Sub6,Brand 6,North,2020,171.6
+141,Product 141,Appliances,Sub5,Brand 11,West,2018,232.86
+142,Product 142,Office Supplies,Sub5,Brand 6,North,2024,433.81
+143,Product 143,Electronics,Sub8,Brand 7,North,2021,264.04
+144,Product 144,Accessories,Sub8,Brand 11,West,2018,109.74
+145,Product 145,Accessories,Sub3,Brand 15,East,2025,441.61
+146,Product 146,Appliances,Sub2,Brand 1,South,2020,162.27
+147,Product 147,Electronics,Sub7,Brand 2,South,2019,236.11
+148,Product 148,Electronics,Sub3,Brand 8,East,2022,213.59
+149,Product 149,Appliances,Sub8,Brand 4,West,2020,197.96
+150,Product 150,Accessories,Sub3,Brand 14,North,2022,388.61
+151,Product 151,Appliances,Sub6,Brand 15,East,2018,148.59
+152,Product 152,Office Supplies,Sub8,Brand 14,South,2025,273.9
+153,Product 153,Office Supplies,Sub6,Brand 9,West,2025,467.1
+154,Product 154,Furniture,Sub4,Brand 10,West,2021,429.45
+155,Product 155,Appliances,Sub1,Brand 6,West,2024,199.18
+156,Product 156,Furniture,Sub8,Brand 1,South,2023,436.15
+157,Product 157,Appliances,Sub2,Brand 9,West,2018,364.0
+158,Product 158,Appliances,Sub3,Brand 2,West,2022,175.9
+159,Product 159,Appliances,Sub2,Brand 14,East,2024,477.53
+160,Product 160,Appliances,Sub1,Brand 10,North,2021,319.27
+161,Product 161,Office Supplies,Sub4,Brand 12,North,2024,489.39
+162,Product 162,Electronics,Sub8,Brand 3,East,2018,32.54
+163,Product 163,Electronics,Sub5,Brand 6,East,2024,81.33
+164,Product 164,Accessories,Sub7,Brand 10,South,2020,95.78
+165,Product 165,Accessories,Sub7,Brand 10,South,2025,457.29
+166,Product 166,Furniture,Sub4,Brand 8,East,2025,135.11
+167,Product 167,Electronics,Sub8,Brand 15,East,2020,46.19
+168,Product 168,Office Supplies,Sub5,Brand 11,West,2022,233.85
+169,Product 169,Office Supplies,Sub4,Brand 7,West,2019,126.23
+170,Product 170,Accessories,Sub6,Brand 10,East,2022,20.75
+171,Product 171,Appliances,Sub5,Brand 1,North,2025,418.09
+172,Product 172,Office Supplies,Sub4,Brand 10,East,2021,321.94
+173,Product 173,Accessories,Sub5,Brand 11,South,2019,452.67
+174,Product 174,Electronics,Sub5,Brand 13,West,2018,293.99
+175,Product 175,Furniture,Sub2,Brand 15,East,2023,376.27
+176,Product 176,Furniture,Sub4,Brand 3,East,2022,416.93
+177,Product 177,Office Supplies,Sub8,Brand 13,East,2023,404.07
+178,Product 178,Appliances,Sub2,Brand 3,South,2024,483.96
+179,Product 179,Accessories,Sub6,Brand 2,West,2018,139.58
+180,Product 180,Electronics,Sub8,Brand 6,East,2024,412.98
+181,Product 181,Office Supplies,Sub2,Brand 11,South,2025,22.26
+182,Product 182,Accessories,Sub6,Brand 15,South,2019,321.35
+183,Product 183,Appliances,Sub5,Brand 11,West,2019,78.49
+184,Product 184,Electronics,Sub5,Brand 8,North,2019,125.05
+185,Product 185,Accessories,Sub3,Brand 7,West,2023,338.54
+186,Product 186,Accessories,Sub7,Brand 10,South,2024,330.91
+187,Product 187,Appliances,Sub7,Brand 5,North,2023,116.46
+188,Product 188,Appliances,Sub4,Brand 14,East,2019,490.65
+189,Product 189,Office Supplies,Sub6,Brand 1,West,2022,103.01
+190,Product 190,Electronics,Sub8,Brand 2,South,2018,34.78
+191,Product 191,Office Supplies,Sub4,Brand 3,South,2019,416.61
+192,Product 192,Accessories,Sub4,Brand 10,South,2021,170.99
+193,Product 193,Furniture,Sub1,Brand 5,South,2020,274.71
+194,Product 194,Furniture,Sub2,Brand 11,North,2020,17.28
+195,Product 195,Furniture,Sub6,Brand 1,South,2022,35.68
+196,Product 196,Appliances,Sub2,Brand 12,North,2025,229.65
+197,Product 197,Office Supplies,Sub2,Brand 8,South,2018,366.35
+198,Product 198,Accessories,Sub5,Brand 8,North,2018,499.31
+199,Product 199,Appliances,Sub7,Brand 11,North,2025,359.08
+200,Product 200,Appliances,Sub2,Brand 15,North,2023,308.07
+1,Product 1,Electronics,Sub1,Brand 12,East,2021,119.37
